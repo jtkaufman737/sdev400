@@ -17,4 +17,19 @@
   - VPC Virtual private cloud - logistically isolated in AWS
   - CloudFront content delivery network service
   - Route 53 cloud domain name web service
-  - Elastic load balancing to distribute traffic across EC2 instances 
+  - Elastic load balancing to distribute traffic across EC2 instances
+  - Cloud Watch monitoring for AWS cloud resources/apps
+  - Cloud Trail records api calls and creates log files
+  - Config provides users with resource inventory, config history and config change notifications
+  - Trusted advisor helps optimize an AWS environment
+  - IAM (Identity/Access Management) controls resource access
+  - Cert Manager provisions manages and deploys certificates
+  - Key management service - creates and ccontrols data encryption keys
+  - Web Application  Firewall protects web applications from common exploits
+  - Kinesis platform for streaming data
+  - Quick Sight business analytics for building visualizations and ad hoc analysis
+  - Data Pipeline moves data between compute and storage at certain intervals
+  - CloudSearch search solutions
+  - RedShift large scale data warehouse
+  - Glue moves data between data stores
+  - Other: mobile, migration, application, messaging, business productivity, desktop & app streaming, internet of things, game development, dev tools 
