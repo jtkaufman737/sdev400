@@ -1,0 +1,125 @@
+{
+   "Sensors": [
+    {
+       "PutRequest": {
+            "Item": {
+              "Sensor": { "S": "B"},
+              "SensorDescription": { "S": "B Sensor"},
+              "ImageFile": { "S": "/Sensors/images/B.png"}
+            }
+        }
+    },
+    {
+      "PutRequest": {
+           "Item": {
+              "Sensor": { "S": "C"},
+              "SensorDescription": { "S": "C Sensor"},
+              "ImageFile": { "S": "/Sensors/images/C.png"}
+            }
+       }
+    },
+    {
+      "PutRequest": {
+           "Item": {
+              "Sensor": { "S": "D" },
+              "SensorDescription": { "S": "D Sensor" },
+              "ImageFile": { "S": "/Sensors/images/D.png" }
+            }
+       }
+    },
+    {
+      "PutRequest": {
+           "Item": {
+              "Sensor": { "S": "E" },
+              "SensorDescription": { "S": "E Sensor" },
+              "ImageFile": { "S": "/Sensors/images/E.png" }
+            }
+        }
+    },
+    {
+      "PutRequest": {
+           "Item": {
+              "Sensor": { "S": "F" },
+              "SensorDescription": { "S": "F Sensor" },
+              "ImageFile": { "S": "/Sensors/images/F.png" }
+            }
+        }
+    },
+    {
+      "PutRequest": {
+           "Item": {
+              "Sensor": { "S": "G" },
+              "SensorDescription": { "S": "G Sensor" },
+              "ImageFile": { "S": "/Sensors/images/G.png" }
+            }
+        }
+    },
+    {
+      "PutRequest": {
+           "Item": {
+              "Sensor": { "S": "H" },
+              "SensorDescription": { "S": "H Sensor" },
+              "ImageFile": { "S": "/Sensors/images/H.png" }
+            }
+        }
+    },
+    {
+      "PutRequest": {
+           "Item": {
+              "Sensor": { "S": "I" },
+              "SensorDescription": { "S": "I Sensor" },
+              "ImageFile": { "S": "/Sensors/images/I.png" }
+            }
+       }
+    },
+    {
+      "PutRequest": {
+           "Item": {
+              "Sensor": { "S": "J" },
+              "SensorDescription": { "S": "J Sensor" },
+              "ImageFile": { "S": "/Sensors/images/J.png" }
+            }
+        }
+    },
+    {
+      "PutRequest": {
+           "Item": {
+              "Sensor": { "S": "K" },
+              "SensorDescription": { "S": "K Sensor" },
+              "ImageFile": { "S": "/Sensors/images/K.png" }
+            }
+        }
+    },
+    {
+      "PutRequest": {
+           "Item": {
+              "Sensor": { "S": "L" },
+              "SensorDescription": { "S": "L Sensor" },
+              "ImageFile": { "S": "/Sensors/images/L.png" }
+            }
+        }
+    },
+    {
+      "PutRequest": {
+           "Item": {
+              "Sensor": { "S": "M" },
+              "SampleRate": { "N": "2" }
+           }
+       }
+    },
+    {
+      "PutRequest": {
+           "Item": {
+              "Sensor": { "S": "N" },
+              "SampleRate": { "N": "5" }
+            }
+       }
+    },
+    {
+      "PutRequest": {
+           "Item": {
+              "Sensor": { "S": "O" },
+              "SensorDescription": { "S": "O Sensor" },
+              "ImageFile": { "S": "/Sensors/images/O.png" },
+              "SampleRate": { "N": "1" },
+              "Locations": { "L": [{"S":"Narnia NZ"},{"S":"Aberdeen MD"},{"S":"Durham NC" }] }
