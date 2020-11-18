@@ -123,3 +123,57 @@
               "ImageFile": { "S": "/Sensors/images/O.png" },
               "SampleRate": { "N": "1" },
               "Locations": { "L": [{"S":"Narnia NZ"},{"S":"Aberdeen MD"},{"S":"Durham NC" }] }
+           }
+        }
+    },
+    {
+       "PutRequest": {
+            "Item": {
+                "Sensor": { "S": "P" },
+                "SensorDescription": { "S": "P Sensor" },
+                "ImageFile": { "S": "/Sensors/images/P.png"},
+                "Model": { "S": "23-H=42R53" }
+            }
+        }
+    },
+    {
+      "PutRequest": {
+           "Item": {
+              "Sensor": { "S": "Q" },
+              "ImageFile": { "S": "/Sensors/images/Q.png" },
+              "Rating": { "S": "3/5" }
+            }
+        }
+    },
+    {
+      "PutRequest": {
+           "Item": {
+              "Sensor": { "S": "R" },
+              "SensorDescription": { "S": "R Sensor" },
+              "SampleRate": { "N": "7" },
+              "Model": { "S": "GH-232" }
+            }
+        }
+    },
+    {
+      "PutRequest": {
+           "Item": {
+              "Sensor": { "S": "S" },
+              "SensorDescription": { "S": "S Sensor"},
+              "SampleRate": { "N": "9" },
+              "Rating": { "S":"4/5" }
+           }
+        }
+    },
+    {
+      "PutRequest": {
+           "Item": {
+              "Sensor": { "S": "T" },
+              "SensorDescription": { "S": "T Sensor" },
+              "ImageFile": {"S": "/Sensors/images/ .png" },
+              "Model": {"S": "23100"}
+           }
+       }
+    }
+  ]
+}

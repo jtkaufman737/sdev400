@@ -1,0 +1,114 @@
+{
+   "Courses": [
+    {
+       "PutRequest": {
+            "Item": {
+              "CourseID": { "S": "001"},
+              "Subject": { "S": "SDEV"},
+              "CatalogNbr": { "N": "400"},
+              "Title":{ "S": "Secure Programming in the Cloud"},
+              "NumCredits": { "N": "3" }
+            }
+        }
+    },
+    {
+      "PutRequest": {
+          "Item": {
+            "CourseID": { "S": "002"},
+            "Subject": { "S": "SDEV"},
+            "CatalogNbr": { "N": "350"},
+            "Title":{ "S": "Building Secure Web Apps"},
+            "NumCredits": { "N": "3" }
+          }
+       }
+    },
+    {
+      "PutRequest": {
+          "Item": {
+            "CourseID": { "S": "003"},
+            "Subject": { "S": "HIST"},
+            "CatalogNbr": { "N": "360"},
+            "Title":{ "S": "African American History"},
+            "NumCredits": { "N": "3" }
+          }
+       }
+    },
+    {
+      "PutRequest": {
+          "Item": {
+            "CourseID": { "S": "004"},
+            "Subject": { "S": "CS"},
+            "CatalogNbr": { "N": "201"},
+            "Title":{ "S": "Intermediate Programming"},
+            "NumCredits": { "N": "3" }
+          }
+        }
+    },
+    {
+      "PutRequest": {
+          "Item": {
+            "CourseID": { "S": "005"},
+            "Subject": { "S": "CS"},
+            "CatalogNbr": { "N": "101"},
+            "Title":{ "S": "Introductory Programming"},
+            "NumCredits": { "N": "3" }
+          }
+        }
+    },
+    {
+      "PutRequest": {
+          "Item": {
+            "CourseID": { "S": "006"},
+            "Subject": { "S": "NTWK"},
+            "CatalogNbr": { "N": "201"},
+            "Title":{ "S": "Computer Networks & Security"},
+            "NumCredits": { "N": "3" }
+          }
+        }
+    },
+    {
+      "PutRequest": {
+          "Item": {
+            "CourseID": { "S": "007"},
+            "Subject": { "S": "SDEV"},
+            "CatalogNbr": { "N": "425"},
+            "Title":{ "S": "Secure Software Testing"},
+            "NumCredits": { "N": "3" }
+          }
+        }
+    },
+    {
+      "PutRequest": {
+          "Item": {
+            "CourseID": { "S": "008"},
+            "Subject": { "S": "WRTG"},
+            "CatalogNbr": { "N": "395"},
+            "Title":{ "S": "Advanced Technical Writing"},
+            "NumCredits": { "N": "3" }
+          }
+       }
+    },
+    {
+      "PutRequest": {
+          "Item": {
+            "CourseID": { "S": "009"},
+            "Subject": { "S": "WRTG"},
+            "CatalogNbr": { "N": "395"},
+            "Title":{ "S": "Advanced Technical Writing"},
+            "NumCredits": { "N": "3" }
+          }
+       }
+    },
+    {
+      "PutRequest": {
+          "Item": {
+            "CourseID": { "S": "0010"},
+            "Subject": { "S": "WRTG"},
+            "CatalogNbr": { "N": "425"},
+            "Title":{ "S": "Survey of Writing Styles"},
+            "NumCredits": { "N": "3" }
+          }
+        }
+    }
+  ]
+}
