@@ -1,0 +1,292 @@
+{
+    "data": [
+        {
+            "team": "Minnesota Wild",
+            "sport": "Hockey",
+            "vs": "Canucks",
+            "result": "Loss",
+            "date": "Aug 7, 2020",
+            "score": "5-4"
+        },
+        {
+            "team": "Minnesota Wild",
+            "sport": "Hockey",
+            "vs": "Canucks",
+            "result": "Loss",
+            "date": "Aug 6, 2020",
+            "score": "3-0"
+        },
+        {
+            "team": "Minnesota Wild",
+            "sport": "Hockey",
+            "vs": "Canucks",
+            "result": "Loss",
+            "date": "Aug 4, 2020",
+            "score": "3-4"
+        },
+        {
+            "team": "Minnesota Wild",
+            "sport": "Hockey",
+            "vs": "Canucks",
+            "result": "Win",
+            "date": "Aug 2, 2020",
+            "score": "0-3"
+        },
+        {
+            "team": "Colorado Avalanche",
+            "sport": "Hockey",
+            "vs": "Canucks",
+            "result": "Loss",
+            "date": "Aug 7, 2020",
+            "score": "5-4"
+        },
+        {
+            "team": "Colorado Avalanche",
+            "sport": "Hockey",
+            "vs": "New York Rangers",
+            "result": "Win",
+            "date": "Mar 11, 2020",
+            "score": "3-2"
+        },
+        {
+            "team": "Colorado Avalanche",
+            "sport": "Hockey",
+            "vs": "LA Kings",
+            "result": "Loss",
+            "date": "Mar 9, 2020",
+            "score": "1-3"
+        },
+        {
+            "team": "Colorado Avalanche",
+            "sport": "Hockey",
+            "vs": "Sharks",
+            "result": "Win",
+            "date": "Mar 8, 2020",
+            "score": "4-3"
+        },
+        {
+            "team": "Dallas Stars",
+            "sport": "Hockey",
+            "vs": "Tampa Bay Lightning",
+            "result": "Loss",
+            "date": "Sept 28, 2020",
+            "score": "0-2"
+        },
+        {
+            "team": "Dallas Stars",
+            "sport": "Hockey",
+            "vs": "Tampa Bay Lightning",
+            "result": "Win",
+            "date": "Sept 26, 2020",
+            "score": "3-2"
+        },
+        {
+            "team": "Dallas Stars",
+            "sport": "Hockey",
+            "vs": "Tampa Bay Lightning",
+            "result": "Loss",
+            "date": "Sept 25, 2020",
+            "score": "4-5"
+        },
+        {
+            "team": "Dallas Stars",
+            "sport": "Hockey",
+            "vs": "Tampa Bay Lightning",
+            "result": "Loss",
+            "date": "Sept 23, 2020",
+            "score": "2-5"
+        },
+        {
+            "team": "LA Galaxy",
+            "sport": "Soccer",
+            "vs": "Vancouver Whitecaps",
+            "result": "Loss",
+            "date": "Nov 8, 2020",
+            "score": "0-3"
+        },
+        {
+            "team": "LA Galaxy",
+            "sport": "Soccer",
+            "vs": "Seattle Sounders",
+            "result": "Tie",
+            "date": "Nov 4, 2020",
+            "score": "1-1"
+        },
+        {
+            "team": "LA Galaxy",
+            "sport": "Soccer",
+            "vs": "Real Salt Lake",
+            "result": "Win",
+            "date": "Nov 1, 2020",
+            "score": "2-1"
+        },
+        {
+            "team": "LA Galaxy",
+            "sport": "Soccer",
+            "vs": "Portland Timbers",
+            "result": "Loss",
+            "date": "Oct 28, 2020",
+            "score": "2-5"
+        },
+        {
+            "team": "DC United",
+            "sport": "Soccer",
+            "vs": "Montreal Impact",
+            "result": "Loss",
+            "date": "Nov 8, 2020",
+            "score": "2-3"
+        },
+        {
+            "team": "DC United",
+            "sport": "Soccer",
+            "vs": "New England Revolution",
+            "result": "Loss",
+            "date": "Nov 1, 2020",
+            "score": "3-4"
+        },
+        {
+            "team": "DC United",
+            "sport": "Soccer",
+            "vs": "Columbus Crew SC",
+            "result": "Win",
+            "date": "Oct 28, 2020",
+            "score": "1-0"
+        },
+        {
+            "team": "DC United",
+            "sport": "Soccer",
+            "vs": "Atlanta United FC",
+            "result": "Win",
+            "date": "Oct 24, 2020",
+            "score": "2-3"
+        },
+        {
+            "team": "Colorado Rapids",
+            "sport": "Soccer",
+            "vs": "Minnesota United FC",
+            "result": "Loss",
+            "date": "Nov 22, 2020",
+            "score": "0-3"
+        },
+        {
+            "team": "Colorado Rapids",
+            "sport": "Soccer",
+            "vs": "Houston Dynamo FC",
+            "result": "Win",
+            "date": "Nov 8, 2020",
+            "score": "2-1"
+        },
+        {
+            "team": "Colorado Rapids",
+            "sport": "Soccer",
+            "vs": "Portland Timbers",
+            "result": "Win",
+            "date": "Nov 4, 2020",
+            "score": "1-0"
+        },
+        {
+            "team": "Colorado Rapids",
+            "sport": "Soccer",
+            "vs": "Seattle Founders",
+            "result": "Win",
+            "date": "Nov 1, 2020",
+            "score": "3-1"
+        },
+        {
+            "team": "Ravens",
+            "sport": "Football",
+            "vs": "Titans",
+            "result": "Loss",
+            "date": "Nov 11, 2020",
+            "score": "24-30"
+        },
+        {
+            "team": "Ravens",
+            "sport": "Football",
+            "vs": "Patriots",
+            "result": "Loss",
+            "date": "Nov 15, 2020",
+            "score": "17-23"
+        },
+        {
+            "team": "Ravens",
+            "sport": "Football",
+            "vs": "Colts",
+            "result": "Win",
+            "date": "Nov 8, 2020",
+            "score": "24-10"
+        },
+        {
+            "team": "Ravens",
+            "sport": "Football",
+            "vs": "Steelers",
+            "result": "Loss",
+            "date": "Nov 1, 2020",
+            "score": "28-24"
+        },
+        {
+            "team": "Panthers",
+            "sport": "Football",
+            "vs": "Vikings",
+            "result": "Loss",
+            "date": "Nov 29, 2020",
+            "score": "27-28"
+        },
+        {
+            "team": "Panthers",
+            "sport": "Football",
+            "vs": "Lions",
+            "result": "Win",
+            "date": "Nov 22, 2020",
+            "score": "20-0"
+        },
+        {
+            "team": "Panthers",
+            "sport": "Football",
+            "vs": "Buccaneers",
+            "result": "Loss",
+            "date": "Nov 15, 2020",
+            "score": "46-23"
+        },
+        {
+            "team": "Panthers",
+            "sport": "Football",
+            "vs": "Chiefs",
+            "result": "Loss",
+            "date": "Nov 8, 2020",
+            "score": "31-33"
+        },
+        {
+            "team": "Colts",
+            "sport": "Football",
+            "vs": "Titans",
+            "result": "Loss",
+            "date": "Nov 29, 2020",
+            "score": "26-45"
+        },
+        {
+            "team": "Colts",
+            "sport": "Football",
+            "vs": "Packers",
+            "result": "Win",
+            "date": "Nov 22, 2020",
+            "score": "34-31"
+        },
+        {
+            "team": "Colts",
+            "sport": "Football",
+            "vs": "Titans",
+            "result": "Win",
+            "date": "Nov 12, 2020",
+            "score": "34-17"
+        },
+        {
+            "team": "Colts",
+            "sport": "Football",
+            "vs": "Ravens",
+            "result": "Loss",
+            "date": "Nov 8, 2020",
+            "score": "24-10"
+        }
+    ]
+}
